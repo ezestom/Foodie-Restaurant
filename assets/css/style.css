@@ -1833,7 +1833,7 @@ textarea.input-field {
 
    .navbar-link {
       --fs-4: 1.5rem;
-      color: var(--btn-color);
+      color: #fff;
       letter-spacing: -0.5px;
    }
 
